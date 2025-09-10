@@ -1,0 +1,3 @@
+/* Fallback placeholder: 사용자 오프라인 환경에서 CDN 실패 시 로컬 파일 제공 필요. */
+/* TODO: 실제 chart.umd.js 파일을 여기에 배치하세요. */
+
